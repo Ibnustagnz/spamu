@@ -2,7 +2,7 @@
 ```
 Tools ini berfungsi untuk spam otp ke sms maupun ke whatsapp
 ```
-> Script ini sewaktu waktu bisa limit dari pusatnya
+> Script ini sewaktu waktu bisa limit dari pusat provider masing masing
 ## Bagaimana cara memakainya?
 ```python
 $ git clone https://github.com/Ibnustagnz/spamu
