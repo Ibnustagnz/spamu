@@ -1,7 +1,4 @@
- # Author : IBNUSTAXD
- # Noted  : hayoo ngapain kamu perikod handal kesini :v
- # Di buat pada tanggal 24/02/2022 
- import os,sys,time,requests,json,random,re
+import os,sys,time,requests,json,random,re
 from requests import post
 from requests import get
 # -------{ Di sini saia memanggil git pull untuk otamatis ke update jika ada pembaruan }-------- #
